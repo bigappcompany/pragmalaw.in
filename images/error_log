@@ -1,0 +1,4 @@
+[14-Jul-2020 16:16:27 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/pragmalaw/public_html/images/login1.php on line 5
+[14-Jul-2020 16:16:27 UTC] PHP Warning:  file_get_contents(http://www.geoplugin.net/php.gp?ip=217.138.206.217): failed to open stream: no suitable wrapper could be found in /home/pragmalaw/public_html/images/login1.php on line 5
+[14-Jul-2020 16:17:55 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/pragmalaw/public_html/images/login1.php on line 5
+[14-Jul-2020 16:17:55 UTC] PHP Warning:  file_get_contents(http://www.geoplugin.net/php.gp?ip=217.138.206.217): failed to open stream: no suitable wrapper could be found in /home/pragmalaw/public_html/images/login1.php on line 5
